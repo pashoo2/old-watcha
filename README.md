@@ -10,8 +10,8 @@ Geo p2p(js WebRTC) social network.
  
 
 >   **This project has deprecated**. Use
->   [Watcha2](https://watchasn.com)[instead.](https://watchasn.com) It based on
->   [IPFS](https://github.com/ipfs/js-ipfs)and
+>   [Watcha2](https://watchasn.com) instead. It based on
+>   [IPFS](https://github.com/ipfs/js-ipfs) and
 >   [OrbitDB](https://github.com/orbitdb/orbit-db), I think it fully consistent
 >   with the Watcha’s philosophy.
 
@@ -108,8 +108,7 @@ them, filter by tags, create a video broadcasts using WebRTC.
 
 ### My libraries in this project:
 
--   [RedisPipelineCommander](https://github.com/pashoo2/RedisPipelineCommander/)
-    - auto sharding and merge into pipelines of a Redis queries
+-   [RedisPipelineCommander](https://github.com/pashoo2/RedisPipelineCommander/) - auto sharding and merge into pipelines of a Redis queries
 
 -   [PeerJS](https://github.com/pashoo2/peerjs) (forked. Origin is
     [here](https://github.com/peers/peerjs)) - Peer.JS with some custom features
