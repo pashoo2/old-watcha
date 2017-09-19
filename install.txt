@@ -1,0 +1,5 @@
+To install the project on your own unzip install.zip, client.zip, server.zip.
+Copy client and server directories to /install/nodejs/scripts/gserver/home/usr_ee/bin/gnodescript/
+To start the installation use /install/install.sh
+
+IMPORTANT! May be there is an issues will have occurred during installation!
