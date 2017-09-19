@@ -9,8 +9,8 @@ Geo p2p(js WebRTC) social network.
 
  
 
->   **This project has deprecated**[. Use]\*\* Watcha
->   2\*\*<https://watchasn.com>[instead.](https://watchasn.com) It based on
+>   **This project has deprecated**. Use [Watcha2](https://watchasn.com)[
+>   instead.](https://watchasn.com) It based on
 >   [IPFS](https://github.com/ipfs/js-ipfs)and
 >   [OrbitDB](https://github.com/orbitdb/orbit-db), I think it fully consistent
 >   with the Watcha’s philosophy.
